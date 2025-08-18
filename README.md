@@ -63,4 +63,4 @@ To **make testing easier**, please see the `image-uploader-service/extras`
 - Auth not implemented but OAuth 2.0 + password-grant type would be a good next step for this service
 	- Introduce user associations (FK) to the images being uploaded
 
-- Tests
+- Tests# image-uploader-service
